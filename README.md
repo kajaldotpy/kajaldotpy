@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kajaldotpy/kajaldotpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### My top 10 technologies
+
+|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/python.png)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/tensorflow.svg)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/gcp.png)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/azure.png)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/c++.png)|
+|---|---|---|---|---|
+|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/android.png)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/javascript.svg)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/node.svg)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/docker.svg)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/arduino.png)|
+
+### 📕 Reacntly Blog posts I read
+<!-- BLOG-POST-LIST:START -->
+- [What Are Graph Neural Networks? How GNNs Work, Explained with Examples](https://www.freecodecamp.org/news/graph-neural-networks-explained-with-examples/)
+
+<!-- BLOG-POST-LIST:END -->
