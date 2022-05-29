@@ -11,11 +11,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### My top 10 technologies
+### Languages
 
-|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/python.png)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/tensorflow.svg)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/gcp.png)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/azure.png)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/c++.png)|
-|---|---|---|---|---|
-|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/android.png)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/javascript.svg)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/node.svg)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/docker.svg)|![](https://github.com/kajaldotpy/kajaldotpy/blob/master/badges/arduino.png)|
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 ### 📕 Reacntly Blog posts I read
 <!-- BLOG-POST-LIST:START -->
